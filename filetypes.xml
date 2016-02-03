@@ -1,19 +1,19 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
-      <mapping pattern="recommend-olg-insert-app-rate" type="Bash" />
       <mapping pattern="000002_0" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="._SUCCESS.crc" type="PLAIN_TEXT" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
       <mapping pattern="recommend-api-play" type="PLAIN_TEXT" />
       <mapping pattern="memo" type="PLAIN_TEXT" />
-      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
       <mapping pattern=".part-00000.crc" type="PLAIN_TEXT" />
       <mapping pattern="i2i" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
       <mapping ext="sqlll" type="SQL" />
+      <mapping pattern="recommend-olg-insert-app-rate" type="Bash" />
     </extensionMap>
   </component>
 </application>
