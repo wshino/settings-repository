@@ -2,11 +2,11 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="000002_0" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="._SUCCESS.crc" type="PLAIN_TEXT" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
       <mapping pattern="recommend-api-play" type="PLAIN_TEXT" />
       <mapping pattern="memo" type="PLAIN_TEXT" />
-      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
       <mapping pattern=".part-00000.crc" type="PLAIN_TEXT" />
       <mapping pattern="i2i" type="PLAIN_TEXT" />
